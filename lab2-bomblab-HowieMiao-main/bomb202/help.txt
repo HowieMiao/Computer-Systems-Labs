@@ -1,0 +1,11 @@
+source init
+
+r solution.txt
+
+layout asm
+
+gdb bomb
+
+layout regs
+
+ctrl l to reset layout
