@@ -1,0 +1,14 @@
+can edit:
+cs1300 files
+
+filter files
+makefile
+
+start with filtermain and makefile
+
+terminal commands:
+make 
+make test
+make clean (reset?)
+
+changing makefile -O[x] (0,2, etc)
